@@ -101,8 +101,7 @@ text
 ├── LICENSE                  # MIT License
 └── README.md                # Project Documentation & Theoretical Formulations
 
-**🗺️ Research & Development Roadmap
-**
+**🗺️ Research & Development Roadmap**
 [ ] Wellbore Integrity Modeling 🛢️: Add physics for casing pressure degradation and micro-annulus leakage probabilities.
 [ ] Techno-Economic Integration 📉: Dynamic Levelized Cost of CO₂ Removal (LCOE & CAPEX/OPEX curve estimation).
 [ ] Subsurface LAS Import 📂: Direct ingestion of site-specific well logs (porosity and permeability profiles).
