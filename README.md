@@ -81,19 +81,15 @@ Ensure you have Python 3.9+ installed:
 git clone https://github.com/parvizt/BECCS-Systems-Simulator.git
 cd BECCS-Systems-Simulator
 
-**### 2. Install Dependencies
-**
-
+### 2. Install Dependencies
 pip install -r requirements.txt
 (Dependencies: PyQt5, pyqtgraph, numpy)
 
-**### 3. Run Simulator
-**
+### 3. Run Simulator
 python beccs_simulator.py
 🔑 Default Admin Password: admin (Click Unlock on top-right to activate control inputs).
 
-**📁 Repository Structure
-**
+📁 Repository Structure
 text
 ├── beccs_simulator.py       # Main Application & GUI Architecture (PyQt5 + PyQtGraph)
 ├── beccs_records.db         # SQLite Scenario Database (auto-generated)
@@ -101,7 +97,7 @@ text
 ├── LICENSE                  # MIT License
 └── README.md                # Project Documentation & Theoretical Formulations
 
-**🗺️ Research & Development Roadmap**
+🗺️ Research & Development Roadmap
 [ ] Wellbore Integrity Modeling 🛢️: Add physics for casing pressure degradation and micro-annulus leakage probabilities.
 [ ] Techno-Economic Integration 📉: Dynamic Levelized Cost of CO₂ Removal (LCOE & CAPEX/OPEX curve estimation).
 [ ] Subsurface LAS Import 📂: Direct ingestion of site-specific well logs (porosity and permeability profiles).
