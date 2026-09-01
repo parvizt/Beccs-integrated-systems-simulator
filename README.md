@@ -21,7 +21,7 @@ An open-source, object-oriented desktop research simulator designed for analyzin
 
 
 
-> *Real-time dynamic visualization of cumulative mobile and mineralized $\text{CO}_2$ trajectories with interactive multi-parameter crosshairs.*
+> *Real-time dynamic visualization of cumulative mobile and mineralized CO₂ trajectories with interactive multi-parameter crosshairs.*
 
 ---
 
