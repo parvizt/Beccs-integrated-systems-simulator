@@ -17,8 +17,9 @@ An open-source, object-oriented desktop research simulator designed for analyzin
 
 ## 🖼️ Application Dashboard
 
-![BECCS Simulator Dashboard](<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/38903728-f3cf-4034-873c-ad23bbe37d1c" />
-)
+![BECCS Simulator Dashboard]<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/4580cfd4-5ee7-42ba-9d7c-b82bf47224a6" />
+
+
 
 > *Real-time dynamic visualization of cumulative mobile and mineralized $\text{CO}_2$ trajectories with interactive multi-parameter crosshairs.*
 
