@@ -2,6 +2,10 @@
 
 # 🌍 BECCS Integrated Systems Simulator
 **Python Framework | License: MIT Academic Domain**
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/GUI-PyQt5%20%7C%20PyQtGraph-green.svg)](https://riverbankcomputing.com/software/pyqt/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Academic Domain](https://img.shields.io/badge/Domain-CCUS%20%2F%20BECCS%20Systems-purple.svg)](#)
 
 An open-source, object-oriented desktop research simulator designed for analyzing **Bioenergy with Carbon Capture and Storage (BECCS)** value chains. This framework bridges *Ecosphere* biomass kinetics, *Technosphere* capture efficiency, and *Geosphere* carbon sequestration mechanisms (Saline Aquifers, Depleted Reservoirs, and Basalt In-situ Mineralization) using a rigorous systems-thinking methodology.
 
