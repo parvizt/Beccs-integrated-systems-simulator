@@ -80,3 +80,31 @@ Ensure you have Python 3.9+ installed:
 ```bash
 git clone https://github.com/parvizt/BECCS-Systems-Simulator.git
 cd BECCS-Systems-Simulator
+### 2. Install Dependencies
+bash
+pip install -r requirements.txt
+(Dependencies: PyQt5, pyqtgraph, numpy)
+
+### 3. Run Simulator
+bash
+python beccs_simulator.py
+🔑 Default Admin Password: admin (Click Unlock on top-right to activate control inputs).
+
+📁 Repository Structure
+text
+├── beccs_simulator.py       # Main Application & GUI Architecture (PyQt5 + PyQtGraph)
+├── beccs_records.db         # SQLite Scenario Database (auto-generated)
+├── requirements.txt         # Project Dependencies
+├── LICENSE                  # MIT License
+└── README.md                # Project Documentation & Theoretical Formulations
+
+🗺️ Research & Development Roadmap
+[ ] Wellbore Integrity Modeling 🛢️: Add physics for casing pressure degradation and micro-annulus leakage probabilities.
+[ ] Techno-Economic Integration 📉: Dynamic Levelized Cost of CO₂ Removal (LCOE & CAPEX/OPEX curve estimation).
+[ ] Subsurface LAS Import 📂: Direct ingestion of site-specific well logs (porosity and permeability profiles).
+[ ] Mobile Deployment 📱: Cross-platform Kivy/Flutter deployment via WSL for Android devices.
+👨‍💻 Author & Attribution
+Developed with a systems-thinking approach for CCUS and subsurface engineering.
+
+Platform: AiBrothersTools.ir
+Domain: Geological Carbon Storage & Energy Transition Systems
