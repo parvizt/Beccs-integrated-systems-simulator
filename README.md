@@ -13,7 +13,8 @@ An open-source, object-oriented desktop research simulator designed for analyzin
 ---
 
 ## 🖥️ Application Dashboard & KPI Panel
-![BECCS Simulator Dashboard v1.2](image.png)
+![BECCS Simulator Dashboard v1.2]<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/8a52c19a-aff2-4bd3-b967-9643bf6a3345" />
+
 *Real-time dynamic visualization of cumulative mobile and mineralized CO₂ trajectories with interactive multi-parameter crosshairs and a comprehensive KPI mass-balance panel.*
 
 ---
